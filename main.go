@@ -13,4 +13,5 @@ func add(x, y int) int {
 
 func rebase() {
 	fmt.Println("Rebase")
+	fmt.Print("MAMA")
 }
