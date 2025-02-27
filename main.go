@@ -10,3 +10,7 @@ func main() {
 func add(x, y int) int {
 	return x + y
 }
+
+func rebase() {
+	fmt.Println("Rebase")
+}
